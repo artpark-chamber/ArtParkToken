@@ -6,10 +6,16 @@
 
 header {
   width: 100%; height: 100vh;
-  background-color: linear-gradient(30deg, crimson, teal);
+  background: linear-gradient(30deg, crimson, teal);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
+}
+
+body {
+  background: linear-gradient(25deg, crimson, teal);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 nav {
