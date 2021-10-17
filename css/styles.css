@@ -1,7 +1,7 @@
 /* copyright: artpark, styles chamber */
 
-body{
-  background: linear-gradient(28deg, color1, color2);
+head{
+  background: linear-gradient(28deg, beige, crimson);
   background-repeat: no-repeat;
   background-size: cover;
 }
