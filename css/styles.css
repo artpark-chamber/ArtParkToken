@@ -6,7 +6,7 @@
 
 header {
   width: 100%; height: 100vh;
-  background: linear-gradient(30deg, crimson, teal);
+  background: linear-gradient(30deg, #b7000, #0073ac);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
