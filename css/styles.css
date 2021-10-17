@@ -13,7 +13,7 @@ header {
 }
 
 body {
-  background: linear-gradient(25deg, crimson, teal);
+  background: linear-gradient(25deg, #b7000, #0073ac);
   background-repeat: no-repeat;
   background-size: cover;
 }
